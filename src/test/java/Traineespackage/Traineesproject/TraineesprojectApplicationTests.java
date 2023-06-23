@@ -1,0 +1,13 @@
+package Traineespackage.Traineesproject;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TraineesprojectApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
